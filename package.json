@@ -1,0 +1,31 @@
+{
+    "name": "locofy-react-gatsby-project",
+    "version": "1.0.0",
+    "private": true,
+    "description": "",
+    "author": "",
+    "keywords": [
+        "gatsby"
+    ],
+    "dependencies": {
+        "gatsby": "^4.25.7",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "typescript": "^4.5.4"
+    },
+    "devDependencies": {
+        "@types/lodash": "^4.14.195",
+        "@types/node": "^17.0.42",
+        "@types/react": "^18.0.28",
+        "@types/react-dom": "^18.0.11",
+        "typescript": "4.7.3"
+    },
+    "scripts": {
+        "develop": "gatsby develop",
+        "start": "gatsby develop",
+        "build": "gatsby build",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean",
+        "typecheck": "tsc --noEmit"
+    }
+}

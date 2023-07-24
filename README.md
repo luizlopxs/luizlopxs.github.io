@@ -1,5 +1,5 @@
 
-  # locofy-html-css-project
+  # locofy-react-gatsby-project
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
